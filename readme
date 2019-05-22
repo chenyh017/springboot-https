@@ -1,2 +1,2 @@
-使用jdk生成证书
+jdk鐢熸垚Key
 keytool -genkeypair -alias tomcat -keyalg RSA -keystore E:\tomcat.key
